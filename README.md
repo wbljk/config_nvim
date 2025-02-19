@@ -9,8 +9,6 @@ sudo npm i pyright
 ### clone to ./config directory
 ```git clone https://github.com/blkvgnj/config_nvim nvim```
 
-### in project directory
-```echo '{"venvPath": ".","venv": ".venv"}' > pyrightconfig.json```
 
 ## keyboard shortcuts
 Find:\
@@ -24,5 +22,8 @@ Neo-tree:\
 
 Terminal:\
 &emsp;- Show/hide:&ensp; **Ctrl-\\**
+
+### in project directory
+```echo '{"venvPath": ".","venv": ".venv"}' > pyrightconfig.json```
 
 
