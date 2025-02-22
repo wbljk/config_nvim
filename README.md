@@ -7,7 +7,7 @@ sudo dnf install gcc gcc-c++ nodejs neovim python3-neovim
 sudo npm i pyright
 ```
 ### clone to ./config directory
-```git clone https://github.com/wblkj/config_nvim nvim```
+```git clone https://github.com/wbljk/config_nvim nvim```
 
 
 ## keyboard shortcuts
