@@ -4,7 +4,7 @@ Neovim configuration
 ## preparation
 ```
 sudo dnf install gcc gcc-c++ nodejs neovim python3-neovim
-sudo npm i pyright
+sudo npm i pyright -g
 ```
 ### clone to ./config directory
 ```git clone https://github.com/wbljk/config_nvim nvim```
